@@ -1,8 +1,6 @@
 {
-  "name": "ant-design-pro",
-  "version": "2.1.1",
-  "description": "An out-of-box UI solution for enterprise applications",
-  "private": true,
+  "name": "fwzx-react-cli",
+  "version": "0.0.1",
   "scripts": {
     "presite": "node ./scripts/generateMock.js && cd functions && npm install",
     "start": "cross-env APP_TYPE=site umi dev",
